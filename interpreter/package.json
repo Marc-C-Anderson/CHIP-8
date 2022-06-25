@@ -1,0 +1,19 @@
+{
+  "name": "chip-8interpreter",
+  "version": "1.0.0",
+  "description": "A CHIP-8 Interpreter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marc-C-Anderson/CHIP-8.git"
+  },
+  "author": "Marc Anderson <marccand@outlook.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marc-C-Anderson/CHIP-8/issues"
+  },
+  "homepage": "https://github.com/Marc-C-Anderson/CHIP-8#readme"
+}
