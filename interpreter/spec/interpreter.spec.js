@@ -1,7 +1,8 @@
 'use strict'
 
-describe("A suite", function() {
-    it("contains spec with an expectation", function() {
-      expect(true).toBe(true);
+describe("CHIP-8 Interpreter", function() {
+    it("can step", function() {
+      const result = step()
+      expect(result).toBe(false);
     });
   });
